@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Александр\Desktop\quickblox\WheelyTest\app\build\intermediates\pre-dexed\debug\jackson-core-asl-1.9.7-6a3fa426d006c4447bab6372fae4347e2f19c51c.jar"
+        jar="C:\Users\Александр\Desktop\quickblox\WheelyTest\app\libs\jackson-core-asl-1.9.7.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2dd41e7570f5c73e63a6a1311671a60c817e1989"/>
+    <item
+        dex="C:\Users\Александр\Desktop\quickblox\WheelyTest\app\build\intermediates\pre-dexed\debug\jackson-mapper-asl-1.9.7-2ad75ac4c0ff52fbf37b2d1a891268f4c58686da.jar"
+        jar="C:\Users\Александр\Desktop\quickblox\WheelyTest\app\libs\jackson-mapper-asl-1.9.7.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3bc2efad5ceb9e24e44f731d4282b5df3ea6d23f"/>
+    <item
+        dex="C:\Users\Александр\Desktop\quickblox\WheelyTest\wheely\app\build\intermediates\pre-dexed\debug\jackson-mapper-asl-1.9.7-bcac0ae41e9f1a0386cf45f3f3c284043177acd3.jar"
+        jar="C:\Users\Александр\Desktop\quickblox\WheelyTest\wheely\app\libs\jackson-mapper-asl-1.9.7.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3bc2efad5ceb9e24e44f731d4282b5df3ea6d23f"/>
+    <item
+        dex="C:\Users\Александр\Desktop\quickblox\WheelyTest\wheely\app\build\intermediates\pre-dexed\debug\classes-4f4b3c9a6d97247eafec169c24192a4c3ed98ef1.jar"
+        jar="C:\Users\Александр\Desktop\quickblox\WheelyTest\wheely\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\Александр\Desktop\quickblox\WheelyTest\app\build\intermediates\pre-dexed\debug\classes-643c2cc96467d4e194467ea258b9aab32a657cb9.jar"
+        jar="C:\Users\Александр\Desktop\quickblox\WheelyTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\Александр\Desktop\quickblox\WheelyTest\wheely\app\build\intermediates\pre-dexed\debug\classes-526d0c963ed82521a7f9eff89f30965eabac7602.jar"
+        jar="C:\Users\Александр\Desktop\quickblox\WheelyTest\wheely\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\4.2.42\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a"/>
+    <item
+        dex="C:\Users\Александр\Desktop\quickblox\WheelyTest\wheely\app\build\intermediates\pre-dexed\debug\jackson-core-asl-1.9.7-5a3dfa81badc218618e02946a666e39fff33fde4.jar"
+        jar="C:\Users\Александр\Desktop\quickblox\WheelyTest\wheely\app\libs\jackson-core-asl-1.9.7.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2dd41e7570f5c73e63a6a1311671a60c817e1989"/>
+    <item
+        dex="C:\Users\Александр\Desktop\quickblox\WheelyTest\app\build\intermediates\pre-dexed\debug\classes-361a087a308bb6e0f14ef444c4e25e80ec8a908b.jar"
+        jar="C:\Users\Александр\Desktop\quickblox\WheelyTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\4.2.42\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a"/>
+    <item
+        dex="C:\Users\Александр\Desktop\quickblox\WheelyTest\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-8b09a202c3ab99b63a03b6a83ca97db44232175a.jar"
+        jar="D:\android\AS\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>

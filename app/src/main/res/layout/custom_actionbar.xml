@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myapp="http://schemas.android.com/apk/res-auto"
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#000000"
+
+    >
+
+    <TextView android:id="@+id/txtTitle"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_centerInParent="true"
+              android:layout_margin="5dp"
+              android:textColor="#ffffff"
+                android:textStyle="bold"
+              android:textSize="22sp"/>
+
+        <!--<ImageView
+            android:id="@+id/search_star"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/star"
+            />-->
+
+<!--
+    <CheckBox
+        android:id="@+id/search_star"
+        android:paddingRight="15dp"
+        android:paddingLeft="10dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="10dp"
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        style="@style/star_checkbox" />-->
+
+
+</RelativeLayout>
